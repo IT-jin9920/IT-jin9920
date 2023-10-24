@@ -34,7 +34,8 @@ A passionate Flutter developer from Ahmedabad City, Gujarat, India.
 
 
 ## 🔗 Links
-[![portfolio](https://img.freepik.com/premium-photo/symbol-flutter-logo-vector-design-illustration-style-light-navy-emerald_921860-41795.jpg)](https://developers.google.com/profile/u/113014455463504866301?authuser=1)
+<!-- [![portfolio](https://img.freepik.com/premium-photo/symbol-flutter-logo-vector-design-illustration-style-light-navy-emerald_921860-41795.jpg)](https://developers.google.com/profile/u/113014455463504866301?authuser=1) -->
+
 [![linkedin](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png)](https://www.linkedin.com/in/jinendra-flutter)
 
 

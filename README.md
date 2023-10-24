@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Android flutter application development](https://github.com/IT-jin9920)  
   
 
-- 🌱 I’m currently learning [Flutter web app] (https://github.com/IT-jin9920)   
+- 🌱 I’m currently learning [Flutter web app](https://github.com/IT-jin9920)   
   
 
 - ❓  Ask me about💬  Flutter development 🛠️, UI/UX in mobile apps📱 and 
